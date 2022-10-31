@@ -1,0 +1,151 @@
+*{
+    font-family: 'Tajawal', sans-serif;
+    background-color: rgb(253, 253, 253);
+    color:rgba(15, 84, 233, 0.945);
+    font-weight:bolder;
+margin: auto;
+}
+form
+{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    width: 100%;
+    margin: auto;
+    height: auto;
+    
+
+}
+
+.item{
+    width: 47%;
+    padding:5px;
+    height:100px;
+    direction: rtl;
+    background-color:rgba(231, 225, 225, 0.836);
+    cursor: pointer;
+  
+
+}
+label{
+    display:block;
+    font-size: 21px;
+    text-align: center;
+}
+
+
+#yellow {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(253, 253, 253);
+    display: inline-block;
+    
+}  
+
+h1{
+    font-size: 45px;
+    padding-right: 20px;
+    color:rgba(15, 84, 233, 0.945);
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+    font-family:'Tajawal', sans-serif;
+   margin: 17px 0px 0px 0px ;
+
+    }
+
+    .login-btn{
+
+        width: 200px;
+        height: 40px;
+        margin-top: 25px;
+        font-size: 20px;
+        font-weight: 900;
+        border-radius: 10px;
+        border-style: none;
+    color:rgba(15, 84, 233, 0.904);
+    cursor: pointer;   
+     transition: all 0.5s ease-in-out;
+     background-color: white;
+    }
+
+    input{
+        
+    font-size:20px ;
+    padding: 8px;
+    border-style: none;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+    width: 97.8% ;
+    direction: rtl;
+    cursor: text;
+    display: inline-block;
+    text-align: right;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    }
+
+    #src-in{
+        font-size:20px ;
+        padding: 8px;
+        border-style: none;
+        color:black;
+        font-weight: bolder;
+        text-align: center;
+        width: 635px ;
+        direction: rtl;
+        cursor: text;
+        display: inline-block;
+        text-align: right;
+        cursor: pointer;
+        outline: none;
+        border: none;
+     
+    }
+    
+    #src-btn{
+        width: 80px;
+        height: 40px;
+        margin-top: 25px;
+        font-size: 20px;
+        font-weight: 900;
+        border-radius: 5px;
+        border-style: none;
+    color:rgba(15, 84, 233, 0.904);
+    margin-left:10px;
+    cursor: pointer;
+    background-color: white;
+    transition: all 0.5s ease-in-out;
+    }
+    #send{
+    
+        font-size: 30px;
+        font: bolder;
+        margin-bottom: 0px 0px 35px 0px; 
+       background-color: white;
+       margin-bottom: 50px;
+}
+
+
+
+    
+    #mizooo{
+        font-size: 10px;
+        font-weight: bolder;
+        padding: 5px;
+
+    }
+    a{
+        text-decoration: none;
+        color:rgba(15, 84, 233, 0.904);
+    }
+    
+    #big{
+        text-align:center;
+        font-weight: 900;
+        font-size: 30px;
+        margin: 20px;
+    }
+    

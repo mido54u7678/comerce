@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+#yellow {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(253, 253, 253);
+    display: inline-block;
+    text-align: center;
+}
+h1{
+font-size: 45px;
+padding-top: 20px;
+ padding-right: 20px;
+font-family: 'Tajawal', sans-serif;
+color:rgba(15, 84, 233, 0.945);
+display: inline-block;
+cursor: pointer;
+}
+
+
+
+.t-c{
+
+    background-color: rgba(231, 225, 225, 0.836);
+    color:rgba(15, 84, 233, 0.904);
+    font-size: 30px;
+    padding: 28px 40px;
+    margin: 10px;
+    border-radius:10px;
+    font-weight: bolder;
+    
+}
+#mid{
+    width: 100% ;
+    text-align: center;
+}
+input{
+    font-size:20px;
+    border-radius: 5px;
+    border-style: hidden;
+ padding: 5px;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+    width:550px ;
+    direction: rtl;
+    cursor: text;
+    display: inline-block;
+    text-align: right;
+    cursor: pointer;
+    }
+    #src-btn{
+        width: 80px;
+        height: 40px;
+        margin-top: 4px;
+        font-size: 25px;
+        font-weight: 900;
+        border-radius: 5px;
+        border-style: none;
+    color:rgba(15, 84, 233, 0.904);
+    margin-left:10px;
+    cursor: pointer;
+    background-color: white;
+  background-color: rgba(231, 225, 225, 0.836);
+    
+    }
+    section{
+        display:flex;
+        flex-direction:row;
+        flex-wrap:wrap;
+    }
+
+.item{
+ width: 48%;
+padding: 10px 5px;
+margin: 10px;
+background-color: rgba(231, 225, 225, 0.836);
+position: relative;
+background-position: center;
+color:rgba(15, 84, 233, 0.904);
+font-size: 30px;
+font-weight: 900;
+border-radius: 10px;
+cursor: pointer;    
+}
+
+a{
+    text-decoration: none;
+    color:rgba(15, 84, 233, 0.904);
+}
+
+
+
